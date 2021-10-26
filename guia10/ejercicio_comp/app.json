@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ejercicio_comp",
-    "slug": "ejercicio_comp",
+    "name": "guia-10",
+    "slug": "snack-e9618c33-29d1-4e7f-ad32-a5933799f84e",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Guia 10 dps\n"
   }
 }
